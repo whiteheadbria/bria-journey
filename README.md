@@ -1,7 +1,7 @@
 # bria-journey
 my first website journey 
 
-how to commit a local repo to remote:
+<!--how to commit a local repo to remote:
 
 briawhitehead@Brias-MacBook-Pro website % git init
 Reinitialized existing Git repository in /Users/briawhitehead/website/.git/
@@ -17,3 +17,4 @@ origin	git@github.com:whiteheadbria/bria-journey.git (fetch)
 origin	git@github.com:whiteheadbria/bria-journey.git (push)
 briawhitehead@Brias-MacBook-Pro website % git push origin main 
 Enter passphrase for key '/Users/briawhitehead/.ssh/id_rsa':
+-->
