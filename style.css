@@ -1,6 +1,58 @@
 body {
-    background-color: #d5d5d5; 
+    background-color: #f7f7f7; 
     
 }
 
+.header {
+    background: #e3e6eb;
+    font-family: 'Calibri';
+    border-bottom-color: #9d939a;
+    text-align: center;
+    margin: -35px;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rochester', cursive;
+}
 
+
+button {
+    border-radius: 10px;
+    background: #e3e6eb;
+}
+
+form.search {
+    float: right;
+    border-bottom-style: solid;
+    border-bottom-color: #9d939a;
+    border-width: 1px;
+    padding: 10px;
+       
+}
+
+form.advice {
+    float: left;
+    border-bottom-style: solid;
+    border-bottom-color: #9d939a;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.box {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    margin: 40px;
+    border: 1px solid #9d939a;
+    box-sizing: border-box;
+    background-color: #d5d5d5;
+}
+
+.title-box {
+    padding: 5px;
+    color:whitesmoke;
+    background-color: black;
+    margin-top: -50px;
+    width: 300px;
+    align-content: 
+
+}
